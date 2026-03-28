@@ -1,4 +1,5 @@
 # THIS IS NOT FINAL, CURRENTLY ONLY A TEST COMMIT
+i am suffering by not understanding github and git help
 
 # sv
 
