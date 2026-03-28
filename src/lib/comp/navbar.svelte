@@ -151,7 +151,7 @@
 		</a>
 		
 		<p class="text-xs dark:text-white, mt-35">
-			Application Version 0.1.1 Beta Created by Nicholas, Anoki, Darrell.
+			0.1.1 Beta Created by Nicholas, Anoki, Darrell.
 		</p>
 	</nav>
 </div>
